@@ -1,0 +1,13 @@
+Debug/
+Release/
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.build_log.htm
+*.dep
+*.axf
+*.htm
+*.map
+*.Administrator
